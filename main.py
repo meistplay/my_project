@@ -1,5 +1,7 @@
 from utils import get_zen_quote
 
+# Главный исполняемый файл проекта
+
 
 def main():
     print("Добро пожаловать в генератор цитат!")
